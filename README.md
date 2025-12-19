@@ -1,4 +1,4 @@
-# 21101226 정민욱 ml_project_report
+# ml_project_report
 
 # 📈 무역 품목 간 공행성 쌍 판별 및 후행 품목 무역량 예측 AI 모델
 
