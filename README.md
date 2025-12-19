@@ -28,6 +28,7 @@
 * **following_item_id**: 예측 모델이 판별한 후행 품목 ID
 * **value**: 선행 품목의 정보를 바탕으로 예측한 2025년 8월 후행 품목의 무역량
 
+[데이터 EDA 링크](무역데이터EDA.ipynb)
 ---
 
 ## 3. 모델링 및 기술적 의사결정 (Technical Architecture & Decision Making)
